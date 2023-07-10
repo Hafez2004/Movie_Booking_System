@@ -64,5 +64,10 @@ start
 	cin.tie(NULL);
     green;
 	ART();
+    Movie ex;
+    for (int i = 0; i < 3; i++)
+        ex.addMovie();
+    infinite
+        ex.searchMovie();
 	bye;
 }
